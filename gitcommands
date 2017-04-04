@@ -1,0 +1,13 @@
+1.git install in terminal
+2.keygen and add the same in github.com
+3.git clone ssh-key created in github.com
+4.cd to that folder and create files/scripts etc
+5.git add
+6.git commit -a -m "message"
+7. git -A
+8.git push
+9.git pull
+10.shell scripts few
+11. python scripts few
+12 create ec2 instance using pythin script using boto library
+13. that's it. plz acknowledge it back
